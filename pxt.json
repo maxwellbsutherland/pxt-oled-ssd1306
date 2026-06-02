@@ -4,8 +4,7 @@
     "description": "Tinkercademy package for SSD1306 OLED controller",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "adafruit-circuit-playground": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -20,11 +19,11 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "4.0.0",
-        "targetId": "adafruit"
+        "target": "7.0.51",
+        "targetId": "microbit"
     },
     "supportedTargets": [
-        "adafruit"
+        "microbit"
     ],
     "preferredEditor": "tsprj"
 }
